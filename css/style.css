@@ -93,7 +93,8 @@ button:focus {
 
 @media (min-width: 1200px) {
   .container {
-    max-width: 1170px; } }
+	max-width: 1173px;
+} }
 
 @media (min-width: 1620px) {
   .box_1620 {
@@ -290,11 +291,15 @@ button:focus {
 /* Home Banner Area css
 ============================================================================================ */
 .home_banner_area {
-  z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
-  background-size: cover; }
+	z-index: 1;
+	background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+	background-size: cover;
+	height: 100%;
+}
   .home_banner_area .banner_inner {
-    width: 100%; }
+	width: 100%;
+	height: auto;
+}
     .home_banner_area .banner_inner .home_left_img {
       padding-top: 195px; }
     .home_banner_area .banner_inner .col-lg-6 {
