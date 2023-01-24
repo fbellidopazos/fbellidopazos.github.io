@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fbellidopazos
+- 👋 Hi, I’m @fbpazos
 - 👀 I’m interested in Uniting Maths with the power of Programming
 - 🌱 I’m currently learning Mathematics & I.T.
 - 💞️ I’m looking to collaborate on Whatever looks Cool enough
