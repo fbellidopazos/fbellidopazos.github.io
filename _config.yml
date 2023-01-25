@@ -6,34 +6,35 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Fernando Bellido Pazos
+title: Mathematician and Computer Scientist
+email: fbellidopazos@gmail.com
+website: https://fbpazos.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  fbpazos
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: fbellidopazos
+tiktok_username: fbpazos
+instagram_username: fbpazos
+youtube_username: fbell
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: tiktok
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.tiktok.com/@fbpazos
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,71 +49,154 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name is Fernando Bellido and I'm a Enthusiastic, highly self-motivated, reliable, responsible, and hard-working person with an ample range of interpersonal skills. Able to understand and communicate emotionally alongside being able to work on multidisciplinary teams, and able to take critics to improve myself. My main functions are software developer, data analyst, back-end developer and teaching.
+    
+  I am most skilled in: <mark>Python</mark> and <mark>Mathematics</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Data Analyst and Developer
+        link: https://oeg.fi.upm.es/
+        link_text: oeg.fi.upm.es
+        sub_title: Madrid, Spain
+        caption: September 2021 - January 2022
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            # Ontology Engineering Group
+            ---
+            In charge of analyzing academic documents on institutional repositories and developed a system for generating knowledge graphs and queries to answer questions related to Open Science values.
+        
+            Technologies used: Python, Pandas, SPARQL, RDF, MorphKGC
+      - layout: left
+        title: Developer
+        link: https://savestarsconsulting.com/
+        link_text: savestarsconsulting.com
+        sub_title: Madrid, Spain
+        caption: Summer 2021
+        description: | # this will include new lines to allow paragraphs
+            # SaveStars Consulting
+            ---
+            Developed a python system that can obtain images from NASA's VNP46A2 satellite in order to process them and apply a mask of a given region of the peninsula in order to give feedback to those regions on how much light pollution there is within that specific region.
+
+            Technologies used: Python, GDAL, Matplotlib, Numpy
+      - layout: left
+        title: Web Developer and Technical Support 
+        link: https://www.bblur.com/
+        link_text: bblur.com
+        sub_title: London, United Kingdom
+        caption: July 2019 - August 2019
+        description: | # this will include new lines to allow paragraphs
+            # BBLUR Architecture 
+            ---
+            Working on the redesign of the company's website using WIX (Enterprise choice) and giving technical support to the company, mainly hardware support.
+
+      - layout: left
+        title: Web Developer and Technical Support
+        link: https://trilogygroup.com/
+        link_text: trilogygroup.com
+        sub_title: Cheltenham, United Kingdom
+        caption:  July 2018 - August 2018
+        description: | # this will include new lines to allow paragraphs
+            # Trilogy Group Limited 
+            ---
+            Working on the redesign of the company's website using WordPress (Enterprise choice) and giving technical support to the company.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Universidad Carlos III de Madrid
+        link: https://www.uc3m.es/master/applied-mathematics
+        link_text: uc3m.es/master/applied-mathematics
+        caption: 2022 - 2023
+        sub_title: English
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          # MSc in Applied & Computational Mathematics 
+          ---
+          * Average grade: 8/10 with 1 Honorable Mention on Advanced Methods in Analysis.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          * Courses: Biological Inspired Artificial Intelligence, Perspectives on Applied & Computational Mathematics, Computational Algebra, Computational techniques for differential equations, Special functions & Orthogonal Polynomials, Advanced Methods for non-linear differential equations and Biological & Socioeconomic Systems, Stochastic Equations for Finance and Biology.
+      - layout: left
+        title: Universidad Politécnica de Madrid
+        link: http://www.fi.upm.es/?id=gradomatematicasinformatica&idioma=english
+        link_text: fi.upm.es/?id=gradomatematicasinformatica
+        caption: 2018 - 2022
+        sub_title: Spanish
+        description: | # this will include new lines to allow paragraphs
+          # BSc in Mathematics and Computer Science
+          ---
+          * Average grade: 9.4/10 with 14 Honorable Mentions.
+
+          * Courses: Databases, Operative Systems, Data Structures, Data Analytics, Artificial Intelligence, Programming (Object Oriented, imperative, functional and logic), Functional Analysis, Applied \& Computational Topology and Pure Mathematics.
+      
+      - layout: left
+        title: Trinity College San Sebastían de los Reyes
+        link: https://trinitycollegessreyes.es/
+        link_text: trinitycollegessreyes.es
+        caption: 2018 - 2022
+        sub_title: Spanish
+        description: | # this will include new lines to allow paragraphs
+          # Baccalaureate in Technological Sciences
+          ---
+          * Average grade: 13.46/14 with 5 Honorable Mentions.
+
+          * Courses: Mathematics, Physics, Technical Drawing, Information Technology, Industrial Engineering and Psychology.
+
+
+
+  - title: Projects # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      
+
+      # The Sturm-Liouville problem and models based on differential equations in the field of acoustics (2022)
+      ---
+      Study of the Sturm-Liouville theory and modeling of stringed instruments to answer questions like: Why does a violin and a piano sound different? Is there any relationship between mathematics and music?
+
+      * Tech: Python, Latex, Matplotlib, Plotly, Sympy, NumPy,Jupyter, Differential Equations, Functional Analysis.
+      * Link: [oa.upm.es/70879](https://oa.upm.es/70879/)
+
+    
+      # S.I.R. Modelling in Python
+      ---
+      Research oriented, open source, Covid-19 analysis for understanding the mathematical models (Susceptible, Infected, Recovered) underneath the pandemic we have lived.
+
+      * Tech: Python, Jupyter
+      * Link: [github.com/fbellidopazos/covidSIRAnalysis](https://github.com/fbellidopazos/covidSIRAnalysis)
+
+  - title: Honors and Awards # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+        ## • Cambridge English Advanced Certificate
+        ## • Academic Excellence Grant 2021 & 2022
+        ## • Academic Excellence Award for Representative Agents of Banco Mediolanum 2022
+  
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in mathematics and computer science some of my other interests and hobbies are:
+      # Violin
+      ---
+      I have been playing the violin for 2.5 years, learning how to play the instrument, how to read music, and external courses on music theory. 
+      I have been part of an orchestra during the European Youth Music Week 2022 in Oakham, United Kingdom. Additionally, I am part of the music group originated at  Escuela de Sol Menor
+      ## Concerts
+      * Salut d'Amour (to Carice) - Edward Elgar (December 2022): [https://www.youtube.com/watch?v=Bhm1K_2bTYQ](youtube.com/watch?v=Bhm1K_2bTYQ)
+      * Double Violin Concerto (BWV 1043) - J.S. Bach (June 2022): [https://www.youtube.com/watch?v=j81yxB_dy_E](youtube.com/watch?v=j81yxB_dy_E)
+      * Opus 34, First Movement - Oskar Rieding (December 2021): [https://www.youtube.com/watch?v=35g-lyy-INw](youtube.com/watch?v=35g-lyy-INw)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      # Swimming
+      ---
+      To keep fit and healthy I swim at least once a week, I have been swimming for 5 years. 
+      
+      
 
-# Footer
+
+
+# Footer 
 footer_show_references: true
 # references_title: References on request (Override references text)
 
