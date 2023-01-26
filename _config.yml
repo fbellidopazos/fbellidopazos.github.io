@@ -24,7 +24,7 @@ github_username:  fbpazos
 linkedin_username: fbellidopazos
 tiktok_username: fbpazos
 instagram_username: fbpazos
-youtube_username: fbell
+youtube_username: "@fbell"
 # xing_username: jekyll
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
@@ -53,6 +53,10 @@ about_content: | # this will include new lines to allow paragraphs
     
   I am most skilled in: <mark>Python</mark> and <mark>Mathematics</mark>
 
+  Download my CV:
+    - [English](files/CV - FernandoBP - ENG.pdf)
+    - [Spanish](files/CV - FernandoBP - ESP.pdf)
+
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -64,7 +68,7 @@ content:
         sub_title: Madrid, Spain
         caption: September 2021 - January 2022
         description: | # this will include new lines to allow paragraphs
-            # Ontology Engineering Group
+            ## Ontology Engineering Group
             ---
             In charge of analyzing academic documents on institutional repositories and developed a system for generating knowledge graphs and queries to answer questions related to Open Science values.
         
@@ -76,7 +80,7 @@ content:
         sub_title: Madrid, Spain
         caption: Summer 2021
         description: | # this will include new lines to allow paragraphs
-            # SaveStars Consulting
+            ## SaveStars Consulting
             ---
             Developed a python system that can obtain images from NASA's VNP46A2 satellite in order to process them and apply a mask of a given region of the peninsula in order to give feedback to those regions on how much light pollution there is within that specific region.
 
@@ -88,7 +92,7 @@ content:
         sub_title: London, United Kingdom
         caption: July 2019 - August 2019
         description: | # this will include new lines to allow paragraphs
-            # BBLUR Architecture 
+            ## BBLUR Architecture 
             ---
             Working on the redesign of the company's website using WIX (Enterprise choice) and giving technical support to the company, mainly hardware support.
 
@@ -99,7 +103,7 @@ content:
         sub_title: Cheltenham, United Kingdom
         caption:  July 2018 - August 2018
         description: | # this will include new lines to allow paragraphs
-            # Trilogy Group Limited 
+            ## Trilogy Group Limited 
             ---
             Working on the redesign of the company's website using WordPress (Enterprise choice) and giving technical support to the company.
 
@@ -114,7 +118,7 @@ content:
         caption: 2022 - 2023
         sub_title: English
         description: | # this will include new lines to allow paragraphs
-          # MSc in Applied & Computational Mathematics 
+          ## MSc in Applied & Computational Mathematics 
           ---
           * Average grade: 8/10 with 1 Honorable Mention on Advanced Methods in Analysis.
 
@@ -126,7 +130,7 @@ content:
         caption: 2018 - 2022
         sub_title: Spanish
         description: | # this will include new lines to allow paragraphs
-          # BSc in Mathematics and Computer Science
+          ## BSc in Mathematics and Computer Science
           ---
           * Average grade: 9.4/10 with 14 Honorable Mentions.
 
@@ -139,7 +143,7 @@ content:
         caption: 2018 - 2022
         sub_title: Spanish
         description: | # this will include new lines to allow paragraphs
-          # Baccalaureate in Technological Sciences
+          ## Baccalaureate in Technological Sciences
           ---
           * Average grade: 13.46/14 with 5 Honorable Mentions.
 
@@ -150,9 +154,13 @@ content:
   - title: Projects # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      
+      ## Basic Numerical Methods in Python - Student Oriented (2023)
+      ---
 
-      # The Sturm-Liouville problem and models based on differential equations in the field of acoustics (2022)
+      * Tech: Python, Jupyter, Numpy, BQPlot, iPyWidgets
+      * Link: [github.com/fbellidopazos/BasicNumericalMethods](
+
+      ## The Sturm-Liouville problem and models based on differential equations in the field of acoustics (2022)
       ---
       Study of the Sturm-Liouville theory and modeling of stringed instruments to answer questions like: Why does a violin and a piano sound different? Is there any relationship between mathematics and music?
 
@@ -160,9 +168,9 @@ content:
       * Link: [oa.upm.es/70879](https://oa.upm.es/70879/)
 
     
-      # S.I.R. Modelling in Python
+      ## S.I.R. Modelling in Python (2021)
       ---
-      Research oriented, open source, Covid-19 analysis for understanding the mathematical models (Susceptible, Infected, Recovered) underneath the pandemic we have lived.
+      Research oriented, open source, Covid-19 analysis for understanding the mathematical models of S.I.R. (Susceptible, Infected, Recovered) underneath the pandemic we have lived.
 
       * Tech: Python, Jupyter
       * Link: [github.com/fbellidopazos/covidSIRAnalysis](https://github.com/fbellidopazos/covidSIRAnalysis)
@@ -179,16 +187,16 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in mathematics and computer science some of my other interests and hobbies are:
-      # Violin
+      ## Violin
       ---
       I have been playing the violin for 2.5 years, learning how to play the instrument, how to read music, and external courses on music theory. 
       I have been part of an orchestra during the European Youth Music Week 2022 in Oakham, United Kingdom. Additionally, I am part of the music group originated at  Escuela de Sol Menor
-      ## Concerts
-      * Salut d'Amour (to Carice) - Edward Elgar (December 2022): [https://www.youtube.com/watch?v=Bhm1K_2bTYQ](youtube.com/watch?v=Bhm1K_2bTYQ)
-      * Double Violin Concerto (BWV 1043) - J.S. Bach (June 2022): [https://www.youtube.com/watch?v=j81yxB_dy_E](youtube.com/watch?v=j81yxB_dy_E)
-      * Opus 34, First Movement - Oskar Rieding (December 2021): [https://www.youtube.com/watch?v=35g-lyy-INw](youtube.com/watch?v=35g-lyy-INw)
+      ### Concerts
+      * Salut d'Amour (to Carice) - Edward Elgar (December 2022): [youtube.com/watch?v=Bhm1K_2bTYQ](https://www.youtube.com/watch?v=Bhm1K_2bTYQ)
+      * Double Violin Concerto (BWV 1043) - J.S. Bach (June 2022): [youtube.com/watch?v=j81yxB_dy_E](https://www.youtube.com/watch?v=j81yxB_dy_E)
+      * Opus 34, First Movement - Oskar Rieding (December 2021): [youtube.com/watch?v=35g-lyy-INw](https://www.youtube.com/watch?v=35g-lyy-INw)
 
-      # Swimming
+      ## Swimming
       ---
       To keep fit and healthy I swim at least once a week, I have been swimming for 5 years. 
       
@@ -197,7 +205,7 @@ content:
 
 
 # Footer 
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
