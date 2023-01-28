@@ -31,10 +31,10 @@ youtube_username: "@fbell"
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: tiktok
-  icon: fas fa-globe
-  url: https://www.tiktok.com/@fbpazos
+# additional_links:
+# - title: tiktok
+#  icon: fas fa-globe
+#  url: https://www.tiktok.com/@fbpazos
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -43,7 +43,7 @@ additional_links:
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-M63WSJK6VF"
 
 # About Section
 # about_title: About Me
@@ -85,6 +85,33 @@ content:
             Developed a python system that can obtain images from NASA's VNP46A2 satellite in order to process them and apply a mask of a given region of the peninsula in order to give feedback to those regions on how much light pollution there is within that specific region.
 
             Technologies used: Python, GDAL, Matplotlib, Numpy
+
+      - layout: left
+        title: Developer
+        link: https://osoc.be/
+        link_text: osoc.be
+        sub_title: Madrid, Spain
+        caption: Summer 2021
+        description: | # this will include new lines to allow paragraphs
+            ## Open Summer of Code
+            ---
+            Working on a multidisciplinary team with the objective to help bring a brighter future to the 2030 Agenda. Developing a Web-App that analyzes and evaluates - objectively - tabular data from a user-selected data set extracted from open data portals (such as datos.gob.es).
+
+            Technologies used: Python, SPARQL, FastAPI, NoSQL
+      
+      - layout: left
+        title: Developer
+        link: https://osoc.be/
+        link_text: osoc.be
+        sub_title: Madrid, Spain
+        caption: Summer 2020
+        description: | # this will include new lines to allow paragraphs
+            ## Open Summer of Code
+            ---
+            Working on a multidisciplinary team with the aim to help bring a brighter future for the 2030 agenda. Developing a WebApp that recommends the end-user good habits taking into account the data during the global pandemic, data which we have extracted from the crisis of Covid 19 and analyze them (Graphing the data into visually attractive graphs)
+
+            Technologies used: Python, Grafana, Numpy, SQL
+
       - layout: left
         title: Web Developer and Technical Support 
         link: https://www.bblur.com/
