@@ -42,8 +42,8 @@ youtube_username: "@fbell"
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-google_analytics: "G-M63WSJK6VF"
+gtag: "G-M63WSJK6VF"
+#google_analytics: "G-M63WSJK6VF"
 
 # About Section
 # about_title: About Me
