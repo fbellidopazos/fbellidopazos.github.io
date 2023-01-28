@@ -183,9 +183,12 @@ content:
     content: |
       ## Basic Numerical Methods in Python - Student Oriented (2023)
       ---
+      My end of master’s thesis aims to develop an open-source PyPi project that contains some of the fundamental numerical methods that are taught in universities, these methods are simplified for any student to learn - that is - without excess code that improves the overall efficiency of the algorithm
+      Not only does this project contain a scripted version of the aforementioned methods, but it also, contains a Jupyter-Integrated Graphical User interface with which the student can see the effects of the algorithm in real time according to his/her input.
 
+      This project aims to help students get a basic understanding of the Numerical Methods implemented and to make them learn Python instead of MATLAB, which requires a fee to use, and it is not as popular as Python in the current market of Programming related jobs.
       * Tech: Python, Jupyter, Numpy, BQPlot, iPyWidgets
-      * Link: [github.com/fbellidopazos/BasicNumericalMethods](
+      * Link: [github.com/fbpazos/Trabajo-Fin-Master](https://github.com/fbpazos/Trabajo-Fin-Master)
 
       ## The Sturm-Liouville problem and models based on differential equations in the field of acoustics (2022)
       ---
