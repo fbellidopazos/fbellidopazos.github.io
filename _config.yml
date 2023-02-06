@@ -71,6 +71,7 @@ content:
             ## Ontology Engineering Group
             ---
             Responsible for analysing academic papers stored in institutional repositories and implementing a system to create knowledge graphs and perform queries to address questions regarding Open Science principles.        
+
             Technologies used: Python, Pandas, SPARQL, RDF, MorphKGC
       - layout: left
         title: Developer
@@ -227,7 +228,7 @@ content:
 
       As a member of an orchestra, I participated in the European Youth Music Week 2022 in Oakham, United Kingdom. I am also a member of a musical group at Escuela de Sol Menor.
 
-      ### Concerts
+      ** Concerts **
       * Salut d'Amour (to Carice) - Edward Elgar (December 2022): [youtube.com/watch?v=Bhm1K_2bTYQ](https://www.youtube.com/watch?v=Bhm1K_2bTYQ)
       * Double Violin Concerto (BWV 1043) - J.S. Bach (June 2022): [youtube.com/watch?v=j81yxB_dy_E](https://www.youtube.com/watch?v=j81yxB_dy_E)
       * Opus 34, First Movement - Oskar Rieding (December 2021): [youtube.com/watch?v=35g-lyy-INw](https://www.youtube.com/watch?v=35g-lyy-INw)
