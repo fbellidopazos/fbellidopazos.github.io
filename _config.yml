@@ -194,8 +194,8 @@ content:
 
       ## The Sturm-Liouville problem and models based on differential equations in the field of acoustics (2022)
       ---
-      Investigated the Sturm-Liouville theory and modeled stringed musical instruments to explore questions such as: what causes the distinct sound of a violin and piano, and is there a connection between mathematics and music.
-
+      Pursued a comprehensive study of the Sturm-Liouville theory and modeled stringed musical instruments to explore the relationship between mathematics and music. The aim of the research was to answer questions such as: what factors contribute to the distinct sound of instruments like a violin and a piano, and how does mathematics play a role in the creation of music.
+      
       * Tech: Python, Latex, Matplotlib, Plotly, Sympy, NumPy,Jupyter, Differential Equations, Functional Analysis.
       * Link: [oa.upm.es/70879](https://oa.upm.es/70879/)
 
