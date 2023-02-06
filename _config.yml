@@ -70,8 +70,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## Ontology Engineering Group
             ---
-            In charge of analyzing academic documents on institutional repositories and developed a system for generating knowledge graphs and queries to answer questions related to Open Science values.
-        
+            Responsible for analysing academic papers stored in institutional repositories and implementing a system to create knowledge graphs and perform queries to address questions regarding Open Science principles.        
             Technologies used: Python, Pandas, SPARQL, RDF, MorphKGC
       - layout: left
         title: Developer
@@ -82,7 +81,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## SaveStars Consulting
             ---
-            Developed a python system that can obtain images from NASA's VNP46A2 satellite in order to process them and apply a mask of a given region of the peninsula in order to give feedback to those regions on how much light pollution there is within that specific region.
+            Constructed a python-based system to retrieve images from NASA's VNP46A2 satellite, process the images, and apply a mask for a specified area of the peninsula to determine the level of light pollution in that specific region.
 
             Technologies used: Python, GDAL, Matplotlib, Numpy
 
@@ -95,7 +94,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## Open Summer of Code
             ---
-            Working on a multidisciplinary team with the objective to help bring a brighter future to the 2030 Agenda. Developing a Web-App that analyzes and evaluates - objectively - tabular data from a user-selected data set extracted from open data portals (such as datos.gob.es).
+            Collaborating with a diverse team with the goal of supporting the 2030 Agenda to achieve a better future. Designed a Web-App that objectively assesses and evaluates tabular data from a user-specified data source obtained from open data portals (e.g. datos.gob.es).
 
             Technologies used: Python, SPARQL, FastAPI, NoSQL
       
@@ -108,7 +107,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## Open Summer of Code
             ---
-            Working on a multidisciplinary team with the aim to help bring a brighter future for the 2030 agenda. Developing a WebApp that recommends the end-user good habits taking into account the data during the global pandemic, data which we have extracted from the crisis of Covid 19 and analyze them (Graphing the data into visually attractive graphs)
+            Collaborating with a cross-functional team to contribute to a brighter future for the 2030 agenda. 
+            Designing a WebApp that provides personalized recommendations for good habits based on data related to the global pandemic, which has been gathered, analyzed and presented through visually appealing graphs.
 
             Technologies used: Python, Grafana, Numpy, SQL
 
@@ -121,7 +121,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## BBLUR Architecture 
             ---
-            Working on the redesign of the company's website using WIX (Enterprise choice) and giving technical support to the company, mainly hardware support.
+            Involved in the revamp of the company's website utilizing WIX (enterprise-level solution) and providing technical assistance to the company, focusing mainly on hardware support.
 
       - layout: left
         title: Web Developer and Technical Support
@@ -132,7 +132,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ## Trilogy Group Limited 
             ---
-            Working on the redesign of the company's website using WordPress (Enterprise choice) and giving technical support to the company.
+            Participating in the redevelopment of the company's website utilizing WordPress (enterprise-level platform) and offering technical support to the company.
 
 
   - title: Education # Title for the section
@@ -183,16 +183,18 @@ content:
     content: |
       ## Basic Numerical Methods in Python - Student Oriented (2023)
       ---
-      My end of master’s thesis aims to develop an open-source PyPi project that contains some of the fundamental numerical methods that are taught in universities, these methods are simplified for any student to learn - that is - without excess code that improves the overall efficiency of the algorithm
-      Not only does this project contain a scripted version of the aforementioned methods, but it also, contains a Jupyter-Integrated Graphical User interface with which the student can see the effects of the algorithm in real time according to his/her input.
+      The focus of my Master's thesis is to create an open-source PyPi project that features fundamental numerical methods commonly taught in universities, but simplified for easy student comprehension without unnecessary code for improved algorithm efficiency.
 
-      This project aims to help students get a basic understanding of the Numerical Methods implemented and to make them learn Python instead of MATLAB, which requires a fee to use, and it is not as popular as Python in the current market of Programming related jobs.
+      This project not only includes a script version of the methods, but also features a Jupyter-based graphical user interface, allowing students to observe the algorithm in real-time based on their input.
+
+      The objective of this project is to provide students with a basic understanding of the implemented numerical methods and to introduce them to Python, as opposed to MATLAB which requires a fee and is not as widely used in the programming job market as Python is.
+
       * Tech: Python, Jupyter, Numpy, BQPlot, iPyWidgets
       * Link: [github.com/fbpazos/Trabajo-Fin-Master](https://github.com/fbpazos/Trabajo-Fin-Master)
 
       ## The Sturm-Liouville problem and models based on differential equations in the field of acoustics (2022)
       ---
-      Study of the Sturm-Liouville theory and modeling of stringed instruments to answer questions like: Why does a violin and a piano sound different? Is there any relationship between mathematics and music?
+      Investigated the Sturm-Liouville theory and modeled stringed musical instruments to explore questions such as: what causes the distinct sound of a violin and piano, and is there a connection between mathematics and music.
 
       * Tech: Python, Latex, Matplotlib, Plotly, Sympy, NumPy,Jupyter, Differential Equations, Functional Analysis.
       * Link: [oa.upm.es/70879](https://oa.upm.es/70879/)
@@ -200,7 +202,9 @@ content:
     
       ## S.I.R. Modelling in Python (2021)
       ---
-      Research oriented, open source, Covid-19 analysis for understanding the mathematical models of S.I.R. (Susceptible, Infected, Recovered) underneath the pandemic we have lived.
+      Involved in research-focused, open-source analysis of Covid-19 to gain insight into the mathematical models of the S.I.R. (Susceptible, Infected, Recovered) dynamics during the pandemic.
+
+      The objective of this analysis was to gain a deeper understanding of the spread of the virus and its impact on populations, using mathematical models to inform the findings.
 
       * Tech: Python, Jupyter
       * Link: [github.com/fbellidopazos/covidSIRAnalysis](https://github.com/fbellidopazos/covidSIRAnalysis)
@@ -219,8 +223,10 @@ content:
       Alongside my interests in mathematics and computer science some of my other interests and hobbies are:
       ## Violin
       ---
-      I have been playing the violin for 2.5 years, learning how to play the instrument, how to read music, and external courses on music theory. 
-      I have been part of an orchestra during the European Youth Music Week 2022 in Oakham, United Kingdom. Additionally, I am part of the music group originated at  Escuela de Sol Menor
+      With 2.5 years of experience playing the violin and daily practice of 2 hours per day, I have honed my skills in instrument playing, musical notation reading, and completed additional coursework in music theory.
+
+      As a member of an orchestra, I participated in the European Youth Music Week 2022 in Oakham, United Kingdom. I am also a member of a musical group at Escuela de Sol Menor.
+
       ### Concerts
       * Salut d'Amour (to Carice) - Edward Elgar (December 2022): [youtube.com/watch?v=Bhm1K_2bTYQ](https://www.youtube.com/watch?v=Bhm1K_2bTYQ)
       * Double Violin Concerto (BWV 1043) - J.S. Bach (June 2022): [youtube.com/watch?v=j81yxB_dy_E](https://www.youtube.com/watch?v=j81yxB_dy_E)
@@ -228,7 +234,8 @@ content:
 
       ## Swimming
       ---
-      To keep fit and healthy I swim at least once a week, I have been swimming for 5 years. 
+      I have a commitment to maintaining a healthy and active lifestyle and prioritize regular physical activity, including swimming at least once a week. With 5 years of experience in the sport, I have developed strong swimming skills and the ability to swim for longer periods of time with endurance.
+       
       
       
 
