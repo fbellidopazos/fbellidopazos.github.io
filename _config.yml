@@ -50,6 +50,7 @@ gtag: "G-M63WSJK6VF"
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Fernando Bellido and I'm a driven and dedicated professional with a strong work ethic and excellent interpersonal skills. I am a confident communicator who excels at collaborating with multidisciplinary teams, and I am always seeking to improve my abilities and grow as a professional. My natural enthusiasm and self-motivation make me a responsible and reliable team player who is able to effectively handle criticism to achieve success.
+  
   I am most skilled in: <mark>Python</mark> and <mark>Mathematics</mark>
 
   Download my CV:
@@ -150,6 +151,10 @@ content:
           * Average grade: 8/10 with 1 Honorable Mention on Advanced Methods in Analysis.
 
           * Courses: Biological Inspired Artificial Intelligence, Perspectives on Applied & Computational Mathematics, Computational Algebra, Computational techniques for differential equations, Special functions & Orthogonal Polynomials, Advanced Methods for non-linear differential equations and Biological & Socioeconomic Systems, Stochastic Equations for Finance and Biology.
+
+          * Master's Description: The Master’s Degree in Computational and Applied Mathematics offered by Universidad Carlos III de Madrid responds to such a demand, by emphasizing a double, computational and mathematical, approach to solving realistic problems, offering multidisciplinar education to holders of STEM Bachelor degrees which, from a solid basic training, is oriented towards the development of quantitative and computational methods which can be applied to a wide spectrum of disciplines.
+
+
       - layout: left
         title: Universidad Politécnica de Madrid
         link: http://www.fi.upm.es/?id=gradomatematicasinformatica&idioma=english
@@ -162,6 +167,9 @@ content:
           * Average grade: 9.4/10 with 14 Honorable Mentions.
 
           * Courses: Databases, Operative Systems, Data Structures, Data Analytics, Artificial Intelligence, Programming (Object Oriented, imperative, functional and logic), Functional Analysis, Applied \& Computational Topology and Pure Mathematics.
+
+          * Degree Description: The ultimate purpose of the degree is to know the nature, methods, and most relevant purposes of Mathematics, and to have general knowledge of Computer Science and the interrelation between both disciplines. 
+                                Companies in the I.T. sector, such as IBM, have noted the growing demand for professionals with good knowledge of computing and mathematics, who can also serve as a link between experts in the two disciplines.
       
       - layout: left
         title: Trinity College San Sebastían de los Reyes
