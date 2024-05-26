@@ -73,19 +73,19 @@ content:
             ---
             * AI Innovator
 
-                1. Directed the _theoretical research & development_ of an innovative internal *Retrieval Augmented Generation (RAG)* system, significantly enhancing language understanding capabilities and applications within the organization. Spearheaded the creation of an AI-driven companion, demonstrating leadership in leveraging advanced _AI technologies & Large Language Models (LLM)_ to drive organizational progress and innovation.
+                1. Directed the __theoretical research & development__ of an innovative internal **Retrieval Augmented Generation (RAG)** system, significantly enhancing language understanding capabilities and applications within the organization. Spearheaded the creation of an AI-driven companion, demonstrating leadership in leveraging advanced __AI technologies & Large Language Models (LLM)__ to drive organizational progress and innovation.
 
-                2. Pioneered the development of an *AI classifier using NLP and Google's BERT* language model, complemented by an _ontology_-based approach, for sophisticated categorization derived from comprehensive project descriptions.
+                2. Pioneered the development of an **AI classifier using NLP and Google's BERT** language model, complemented by an __ontology__-based approach, for sophisticated categorization derived from comprehensive project descriptions.
                 
-                3. Innovated a *CV generator* grounded in the _SAP's Success Factors_ internal system, featuring a multi-layered approach encompassing data ingestion, _AI-driven_ & deterministic data processing paragraph generation, template compilation, and polished CV output. 
+                3. Innovated a **CV generator** grounded in the __SAP's Success Factors__ internal system, featuring a multi-layered approach encompassing data ingestion, __AI-driven__ & deterministic data processing paragraph generation, template compilation, and polished CV output. 
 
-                4. Architected and deployed a cutting-edge _AI development infrastructure_, encapsulating a fully *dockerized* framework that enables real-time monitoring of system resources. Masterfully set-up *NGINX* for efficient routing, and implemented a suite of advanced _AI tools_, setting new benchmarks in technological excellence like *Stable Diffusion*
+                4. Architected and deployed a cutting-edge __AI development infrastructure__, encapsulating a fully **dockerized** framework that enables real-time monitoring of system resources. Masterfully set-up **NGINX** for efficient routing, and implemented a suite of advanced __AI tools__, setting new benchmarks in technological excellence like **Stable Diffusion**
 
             * Digital Tranformation Consultant
 
-                1. Spearheaded the development of cutting-edge *artificial intelligence and mathematical models*, revolutionizing asset _maintenance_ from _reactive to proactive_ using _SAP's_ Intelligent Asset Management and Internet of Things modules.
+                1. Spearheaded the development of cutting-edge **artificial intelligence and mathematical models**, revolutionizing asset __maintenance__ from __reactive to proactive__ using __SAP's__ Intelligent Asset Management and Internet of Things modules.
 
-                2. Played a pivotal role as a _Statistician_ in developing the cadastre system, in collaboration with the registry office, offering clear justifications for property valuations to citizens. Innovated a *unique calculation method for assessing house values* across the Basque Country, enhancing the system's accuracy and transparency in property valuation.
+                2. Played a pivotal role as a __Statistician__ in developing the cadastre system, in collaboration with the registry office, offering clear justifications for property valuations to citizens. Innovated a **unique calculation method for assessing house values** across the Basque Country, enhancing the system's accuracy and transparency in property valuation.
       - layout: left
         title: Data Analyst and Developer
         link: https://oeg.fi.upm.es/
@@ -166,7 +166,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           ## MSc in Applied & Computational Mathematics 
           ---
-          * Average grade: 8.38/10 with 1 Honorable Mention on *Advanced Methods in Analysis*.
+          * Average grade: 8.38/10 with 1 Honorable Mention on **Advanced Methods in Analysis**.
 
           * Course work: Biological Inspired Artificial Intelligence, Modelling and Nonlinear Analysis, Optimization, Stochastic Equations for Finance and Biology, Complex Biological and Socioeconomic systems, Computational Linear Algebra, Computational techniques for Differential equations, Methods for Nonlinear differential equations, Applied discrete mathematics.
 
@@ -211,7 +211,7 @@ content:
       ---
       My end of master's thesis aims to develop an open-source PyPi project that includes a scripted version of the numerical methods taught in universities and a Jupyter-integrated GUI for real-time visualization of those. The goal is to help students understand the methods and promote learning Python instead of MATLAB, which is not as popular or accessible as Python in the current job market.
       
-      *	This project was awarded the *'Most Innovative Project of 2023'* by Logicalis in the _Logicalis Innovation Challenge_, recognizing its potential to significantly impact educational practices and student learning experiences.
+      *	This project was awarded the **'Most Innovative Project of 2023'** by Logicalis in the __Logicalis Innovation Challenge__, recognizing its potential to significantly impact educational practices and student learning experiences.
 
 
       * Tech: Python, Jupyter, Numpy, BQPlot, iPyWidgets
@@ -253,7 +253,7 @@ content:
 
       As a member of an orchestra, I participated in the European Youth Music Week 2022 in Oakham, United Kingdom as well as in E.Y.M.W 2023 Sonderhausen, Germany.
 
-      **Concerts**
+      * **Concerts**
       * Partita II (BWV 1004) Allemande - J.S. Bach (June 2022): [https://www.youtube.com/watch?v=sUpG7nl1QDQ](https://www.youtube.com/watch?v=sUpG7nl1QDQ) 
       * Sonata for Violin & Piano (KV. 304) - W.A. Mozart (June 2022): [https://www.youtube.com/watch?v=WOvARdlh45Q](https://www.youtube.com/watch?v=WOvARdlh45Q)
       * Salut d'Amour (to Carice) - Edward Elgar (December 2022): [youtube.com/watch?v=Bhm1K_2bTYQ](https://www.youtube.com/watch?v=Bhm1K_2bTYQ)
